@@ -1,8 +1,9 @@
-# TITLE
+# Fintech Assignment 1 - Tyler Hubbard
 
 ## Overview and Origin
 
 * Name of company
+NEAR Protocol
 
 * When was the company incorporated?
 
