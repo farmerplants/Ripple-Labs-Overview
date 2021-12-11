@@ -2,8 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company
-NEAR Protocol
+* Name of company - NEAR Protocol
 
 * When was the company incorporated?
 
