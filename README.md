@@ -4,20 +4,34 @@
 
 ## Overview and Origin
 
-* Name of company - NEAR Protocol
+* Name of company -- 
+  - Ripple Labs, Inc.
+  - Was initially named Opencoin, later renamed to Ripple Labs
+  - Develops the Ripple payment protocol
 
-* When was the company incorporated?
+* When was the company incorporated? -- 
+  - Founded in San Fransisco in September 2012
 
-* Who are the founders of the company?
+* Who are the founders of the company? -- 
+  - Chris Larsen and Jed McCaleb co-founded OpenCoin
+  - Chris Larsen, David Schwartz, and Arthur Britto joined the project
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? -- 
+  - Ryan Fugger initially conceived Ripple and founded RipplePay in 2004
+  - Aimed to create a p2p payment network
+  - Handed the RipplePay project over to Larsen and McCaleb
 
 * How is the company funded? How much funding have they received?
+  - The primary source of funding comes from sales of $XRP
+  - Privately funded
+  - Sold $1.254B worth of XRP between Q4 2016 and Q2 2020
+  - Raised over $120M in venture funding
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+  - 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
