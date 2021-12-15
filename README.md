@@ -55,11 +55,22 @@
 ## Landscape:
 
 ### What domain of the financial industry is the company in?
+  - Blockchain/Cryptocurrency
+  - Payments/Remittance
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
+  - Exponential adoption of blockchain technology across every financial sector
+  - Distributed ledgers essentially invalidating traditional transaction methods
+  - Removing third parties and evolving to a trustless system via blockchain
+  - Decentralized finance has allowed individuals to become their own banks and access financial, social, political protocols (to name a few) that wouldn't otherwise be available (lending/borrowing, liquidity protocols, etc.)
+  - Stablecoins have offered alternatives to fiat and have prompted the development of CBDCs
+  - P2P payment systems have evolved quickly, but institutional adoption has yet to fully blossom
 
 ### What are the other major companies in this domain?
-
+  - Swift
+  - Cryptocurrencies like Bitcoin, Stellar, Litecoin, Dogecoin
+  - Blockchains -- IBM, Azure, Oracle
+  - Quorum
 
 ## Results
 
