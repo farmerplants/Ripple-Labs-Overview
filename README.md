@@ -56,7 +56,7 @@
 
 ### What domain of the financial industry is the company in?
   - Blockchain/Cryptocurrency
-  - Payments/Remittance
+  - Payments and Remittance
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
   - Exponential adoption of blockchain technology across every financial sector
@@ -75,8 +75,16 @@
 ## Results
 
 ### What has been the business impact of this company so far?
+  - Multiple corridors have been opened for XRP to do cross-border remittance
+  - Contracts signed with 300+ banks globally
+  - Reduced transaction speed and fees
+  - Alternative liquidity solutions for financial institutions
 
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+  - Market cap of XRP -- XRP has been a top 10 cryptocurrency by market cap for years
+  - Price of XRP -- 
+  - Settlement speed -- 
+  - Network Transaction Fee -- 
 
 ### How is your company performing relative to competitors in the same domain?
 
