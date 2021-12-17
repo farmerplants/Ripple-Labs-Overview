@@ -80,14 +80,12 @@
   - Reduced transaction speed and fees
   - Alternative liquidity solutions for financial institutions
 
-### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-  - Market cap of XRP -- XRP has been a top 10 cryptocurrency by market cap for years
-  - Price of XRP -- 
-  - Settlement speed -- 
-  - Network Transaction Fee -- 
-
-### How is your company performing relative to competitors in the same domain?
-
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? How is your company performing relative to competitors in the same domain?
+  - Market cap -- XRP has been a top 10 cryptocurrency by market cap for years, currently #8; mcap is currently $82.49B, of which XRP accounts for $38.6B
+  - Price of XRP -- directly correlated to market cap; currently priced at $0.818
+  - Settlement speed -- a key element in Ripple's design, as transactional speed is in dire need of an upgrade; a transaction currently takes 4.0 seconds globally using Ripple's ledger as opposed to the 5 minute to 24 hour window that Swift (Ripple's biggest competitor) boasts domestically and between 2 and 5 business days internationally
+  - Network Transaction Fee -- another key element in Ripple's design, as transfers both domestic and globally can become costly; the current network transaction fee with Ripple is $0.002, whereas Swift's transfer fees are generally between $25 and $30 domestic and $45-50 internationally
+  - XRP itself holds its own as a currency and Ripple's ledger system is unquestionably a better solution for financial institutions as far as enhanced speed, cost, and efficiency
 
 ## Recommendations
 
