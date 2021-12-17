@@ -2,7 +2,7 @@
 
 ---
 
-![](https://ripple.com/wp-content/themes/ripple-beta/assets/img/ripplenet/how-odl-works@2x.png)
+![](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa0909732-bfa8-4f0d-95b9-890dafb87d25.png?fit=scale-down&source=next&width=700)
 
 ---
 
@@ -44,6 +44,8 @@
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   - Cross-currency transactions via XRP ledger to reduce time (3-5 seconds) and at a negligible cost
   - Current transaction speed for institutions without the ledger is *much* slower and with a sizeable cost
+  - On-demand liquidity
+  - Carbon-neutral footprint
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
   - Ripple Protocol (RTXP) -- blockchain to facilitate transactions
@@ -90,9 +92,24 @@
 ## Recommendations
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  - Smart contract compatibility -- recently proposed in August 2021
+  - Integration of machine learning -- liquidity speed and availability on RippleNet will benefit; is a key facet of the engineering team moving forward into 2022 and beyond
+  - Further development of CBDCs globally in coordinance with financial institutions and banks
 
 ### Why do you think that offering this product or service would benefit the company?
+  - Smart contracts:
+    - XRP can be used for running sidechains or any application built on the sidecchains can opt to issue XRPL-compatible tokens
+    - Countires, banks, institutions, and others will be able to issue Central Bank Digital Currencies (CBDCs) or other digital assets as XRPL tokens, both fungible and non-fungible
+    - Automated, trustless transactions improve efficiency
+  - Machine learning:
+    - Successful implementation of ML will bolster liquidity speed and availability
+  - CBDCs
+    - Can facilitate the distribution of money more efficiently with reduced costs
 
 ### What technologies would this additional product or service utilize?
+  - Blockchain
+  - AI/ML
 
 ### Why are these technologies appropriate for your solution?
+  - Blockchain technology and CBDCs can greatly improve the efficiency and movement of money
+  - An estimated 1.7B people globally are unbanked -- Ripple is partnered with the central bank of Bhutan to aid in asset digitization in an attempt to increase financial inclusion to 85% of the population in the next two years
